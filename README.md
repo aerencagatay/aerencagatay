@@ -1,4 +1,4 @@
 - 👋 Hi, I’m erencagatay
 - 👀 I’m interested in Data Science and Machine Learning
-- 📫 How to reach me ahmetern.cagatay@gmail.com
+- 📫 How to reach me acagatay@sabanciuniv.edu
 - Studying Computer Science at Sabancı University
