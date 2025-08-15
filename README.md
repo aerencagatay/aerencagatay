@@ -1,4 +1,5 @@
 - 👋 Hi, I’m erencagatay
+- I am working as a Software Developer at ATP Tradesoft
 - 👀 I’m interested in Data Science and Machine Learning
-- 📫 How to reach me acagatay@sabanciuniv.edu
-- Studying Computer Science at Sabancı University
+- 📫 How to reach me ahmetern.cagatay@gmail.com, www.linkedin.com/in/ahmet-eren-ç-04b382230
+- I graduated from Sabancı University with a Computer Science and Engineering Degree
